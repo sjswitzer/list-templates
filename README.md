@@ -1,6 +1,6 @@
 list-templates
 ==============
 
-Template mixins implementing intrusive lists.
+Template mixins for intrusive lists.
 
 This should be considered a doodle for the time being.
